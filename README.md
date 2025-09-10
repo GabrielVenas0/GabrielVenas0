@@ -1,4 +1,4 @@
-**Hi there 👋**
+### Hi there 👋
 
 Hi! I'm gcvenas, a Computer Science student specializing in Java backend development.
 I'm currently building personal projects to strengthen my skills in object-oriented programming, algorithms, and clean code.
