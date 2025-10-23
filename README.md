@@ -7,5 +7,5 @@ I'm currently building personal projects to strengthen my skills in object-orien
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielVenas0&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVenas0&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVenas0&layout=compact&theme=github_dark&hide_border=true&hide=java)
 
